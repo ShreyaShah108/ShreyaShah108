@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am a 3rd year Computer Engineering student <br>🔭 I am interested in AI/ML, Deep Learning, Computer Vision, Webdev (Frontend-React, UI/UX-Figma), and Music<br>🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning & Web Development projects
+👨‍🎓 MSc. Computer Science - Data Science student <br>🔭 I am interested in AI/ML, Deep Learning, Computer Vision, Webdev (Frontend-React, UI/UX-Figma), and Music<br>🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning & Web Development projects
 
 
 ## 🌐 Socials:
